@@ -75,8 +75,8 @@
     <LibraryPath>D:\Github\gameEngine\harmonyEngine\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\Github\gameEngine\harmonyEngine\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Github\gameEngine\harmonyEngine\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\fifty\OneDrive\Documents\Github\harmonyEngine\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\fifty\OneDrive\Documents\Github\harmonyEngine\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
